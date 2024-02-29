@@ -1,4 +1,4 @@
-# dick-hunt
+# duck-hunt
 duck-hunt clone made with rust and macroquad
 
 * Uses [macroquad](https://macroquad.rs/)
